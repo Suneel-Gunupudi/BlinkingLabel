@@ -27,8 +27,8 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/Suneel-Gunupudi/BlinkingLabel'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'SuneelGunupudi' => 'suneel.g@pixuate.com' }
-  s.source           = { :git => 'https://github.com/SuneelGunupudi/BlinkingLabel.git', :tag => s.version.to_s }
+  s.author           = { 'Suneel-Gunupudi' => 'suneelg023@gmail.com' }
+  s.source           = { :git => 'https://github.com/Suneel-Gunupudi/BlinkingLabel.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
