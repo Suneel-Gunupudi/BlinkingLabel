@@ -22,7 +22,7 @@ pod 'BlinkingLabel'
 
 ## Author
 
-Suneel-Gunupudi, suneelg023@gmail.com
+Suneel-Gunupudi
 
 ## License
 
